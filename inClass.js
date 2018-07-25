@@ -35,3 +35,5 @@ this.verb = verb;
 }
 
 }
+
+new Shouter("Dr. Loudmouth").speak("hello there")
